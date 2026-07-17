@@ -34,7 +34,7 @@ Google Gemini generates:
 - **Knowledge Application**
 - **Personalized Improvement Suggestions**
 
-## 📂 Dataset
+## 📂 Dataset Used
 StudentPerformanceFactors.csv
 
 ## ▶️ How to Run
@@ -43,6 +43,7 @@ StudentPerformanceFactors.csv
 3. Run all cells.
 4. Launch the Gradio interface.
 5. Enter student details and click **Predict**.
+6. link to acess live project **https://b6ae4ad5576f26482a.gradio.live/**
 
 ## 📸 Project Output
 The application predicts the student's score, identifies the risk level, and generates a personalized AI-powered academic report.
