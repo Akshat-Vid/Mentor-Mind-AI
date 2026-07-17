@@ -46,6 +46,8 @@ StudentPerformanceFactors.csv
 
 ## 📸 Project Output
 The application predicts the student's score, identifies the risk level, and generates a personalized AI-powered academic report.
+<img width="1920" height="1080" alt="Screenshot 2026-07-16 201139" src="https://github.com/user-attachments/assets/6eaa3470-43bf-4150-90c9-425a024bf9ea" />
+
 
 ## 👨‍💻 Author
 **Akshat Vidyarthi**
