@@ -48,4 +48,4 @@ StudentPerformanceFactors.csv
 The application predicts the student's score, identifies the risk level, and generates a personalized AI-powered academic report.
 
 ## 👨‍💻 Author
-**Akshat**
+**Akshat Vidyarthi**
