@@ -50,5 +50,8 @@ The application predicts the student's score, identifies the risk level, and gen
 <img width="1920" height="1080" alt="Screenshot 2026-07-16 201139" src="https://github.com/user-attachments/assets/6eaa3470-43bf-4150-90c9-425a024bf9ea" />
 
 
-## 👨‍💻 Author
-**Akshat Vidyarthi**
+## 👨‍💻 DESIGNED BY
+**AKSHAT VIDYARTHI**
+**B.TECH. MECHANICAL ENGINEERING**
+**THIRD YEAR STUDENT**
+**ABES ENGINEERING COLLEGE**
