@@ -51,7 +51,7 @@ The application predicts the student's score, identifies the risk level, and gen
 
 
 ## 👨‍💻 DESIGNED BY
-**AKSHAT VIDYARTHI**\n
-**B.TECH. MECHANICAL ENGINEERING**\n
-**THIRD YEAR STUDENT**\n
-**ABES ENGINEERING COLLEGE**\n
+**AKSHAT VIDYARTHI**
+         **B.TECH. MECHANICAL ENGINEERING**
+          **THIRD YEAR STUDENT**
+          **ABES ENGINEERING COLLEGE**
