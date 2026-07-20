@@ -43,7 +43,7 @@ StudentPerformanceFactors.csv
 3. Run all cells.
 4. Launch the Gradio interface.
 5. Enter student details and click **Predict**.
-6. link to acess live project **https://f0c6f655e709719d8f.gradio.live**
+6. To access project make sure google collab should be running on the device with the CSV file(Attached) uploaded link to acess live project **https://f0c6f655e709719d8f.gradio.live**
 
 ## 📸 Project Output
 The application predicts the student's score, identifies the risk level, and generates a personalized AI-powered academic report.
